@@ -1,0 +1,33 @@
+C:\Users\skazr\source\repos\Astronomical-Processing\bin\Debug\net8.0-windows\Astronomical-Processing..exe
+C:\Users\skazr\source\repos\Astronomical-Processing\bin\Debug\net8.0-windows\Astronomical-Processing..deps.json
+C:\Users\skazr\source\repos\Astronomical-Processing\bin\Debug\net8.0-windows\Astronomical-Processing..runtimeconfig.json
+C:\Users\skazr\source\repos\Astronomical-Processing\bin\Debug\net8.0-windows\Astronomical-Processing..dll
+C:\Users\skazr\source\repos\Astronomical-Processing\bin\Debug\net8.0-windows\Astronomical-Processing..pdb
+C:\Users\skazr\source\repos\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical_Processing_.Form1.resources
+C:\Users\skazr\source\repos\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..csproj.GenerateResource.cache
+C:\Users\skazr\source\repos\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skazr\source\repos\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..AssemblyInfoInputs.cache
+C:\Users\skazr\source\repos\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..AssemblyInfo.cs
+C:\Users\skazr\source\repos\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..csproj.CoreCompileInputs.cache
+C:\Users\skazr\source\repos\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..dll
+C:\Users\skazr\source\repos\Astronomical-Processing\obj\Debug\net8.0-windows\refint\Astronomical-Processing..dll
+C:\Users\skazr\source\repos\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..pdb
+C:\Users\skazr\source\repos\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..genruntimeconfig.cache
+C:\Users\skazr\source\repos\Astronomical-Processing\obj\Debug\net8.0-windows\ref\Astronomical-Processing..dll
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\bin\Debug\net8.0-windows\Astronomical-Processing..exe
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\bin\Debug\net8.0-windows\Astronomical-Processing..deps.json
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\bin\Debug\net8.0-windows\Astronomical-Processing..runtimeconfig.json
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\bin\Debug\net8.0-windows\Astronomical-Processing..dll
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\bin\Debug\net8.0-windows\Astronomical-Processing..pdb
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical_Processing_.Form1.resources
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..csproj.GenerateResource.cache
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..AssemblyInfoInputs.cache
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..AssemblyInfo.cs
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..csproj.CoreCompileInputs.cache
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..sourcelink.json
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..dll
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\obj\Debug\net8.0-windows\refint\Astronomical-Processing..dll
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..pdb
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\obj\Debug\net8.0-windows\Astronomical-Processing..genruntimeconfig.cache
+C:\Users\jawad\OneDrive\Desktop\Sprint One\Astronomical-Processing\Astronomical-Processing\obj\Debug\net8.0-windows\ref\Astronomical-Processing..dll
